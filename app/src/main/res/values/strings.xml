@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubTestApp</string>
+
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="filter_by">Filter by:</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+    <string name="time">Time</string>
+</resources>

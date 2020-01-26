@@ -1,0 +1,13 @@
+package com.oli.githubtestapp.search
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import com.oli.githubtestapp.R
+
+class SearchActivity : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+    }
+}
