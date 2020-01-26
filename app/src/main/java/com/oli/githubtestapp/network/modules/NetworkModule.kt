@@ -14,7 +14,7 @@ import javax.inject.Singleton
 class NetworkModule {
 
     companion object {
-        const val BASE_URL = "?????????"
+        const val BASE_URL = "https://api.github.com/"
     }
 
     @Provides
